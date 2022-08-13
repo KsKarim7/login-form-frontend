@@ -1,0 +1,52 @@
+/* .flex {
+    justify-content: center;
+    padding-bottom: 500px;
+} */
+/* button {
+    font-family: freight-display-pro, serif;
+    font-weight: 900;
+    width: 175px;
+    height: 120px;
+    color: #fff;
+    background: none;
+} */
+button {
+    border: none;
+    font-family: 'Lato';
+    font-size: inherit;
+    color: rgb(10, 10, 10);
+    background: rgb(209, 209, 214);
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 5px 15px;
+    display: inline-block;
+    margin: 15px 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    outline: none;
+}
+
+button:hover {
+    background: #5b5deb;
+    color: aliceblue;
+}
+
+.pr-5 {
+    color: #5b5deb;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+    line-height: 30px;
+}
+
+input {
+    box-sizing: border-box;
+    border: 2px solid rgb(173, 173, 175);
+    border-radius: 4px;
+    margin: 5px;
+    padding: 0 5px;
+}
