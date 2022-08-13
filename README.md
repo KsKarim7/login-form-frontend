@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+
+Website Name:Login-form
+
+Live Site Link:
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +75,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+List of technologies that I have used in my project:
+
+React - A Javascript library
+
+tailwind - Css framework
+
+
+React-query
+
+Firebase - For Authentication system of the site
+
+React-Firebase-Hook
+
+Font awesome - For Icons
+
+cors - To run my servers in two different ports
+
+mongodb - Database
+
+mongoose - Object Data Modeling (ODM) library for MongoDB
+
+express - node.js framework
+
+axios - http client for JavaScript
