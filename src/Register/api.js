@@ -10,3 +10,13 @@ export const authenticateSignup = async (data) => {
         console.log('Error coming from sign up api', error);
     }
 }
+
+export const authenticateLogin = async (data) => {
+    try {
+        return await axios.post(`${url}/login`, data)
+    }
+    catch (error) {
+        console.log('Error coming from login api', error);
+        return error.res
+    }
+}
